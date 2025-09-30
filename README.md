@@ -5,3 +5,5 @@
 ### https://www.sciencedirect.com/science/article/abs/pii/S0167404823004558?via%3Dihub
 # Live Malicious websites URL
 ### https://urlhaus.abuse.ch/browse/
+# Run FastAPI
+### uvicorn main:app --reload
